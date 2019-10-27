@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVP Pattern</string>
+    <string name="label_login_underline"><u>Login</u></string>
+</resources>
